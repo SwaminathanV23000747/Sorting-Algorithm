@@ -23,7 +23,6 @@ i)	#Selection Sort
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: Swaminathan V
 RegisterNumber: 23000747
-'''
 def selection_sort(nums):       
     for i in range(len(nums)):
         lowest_value_index = i
